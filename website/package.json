@@ -14,7 +14,7 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.5.2",
+    "@docusaurus/core": "^3.7.0",
     "@docusaurus/plugin-sitemap": "^3.5.2",
     "@docusaurus/preset-classic": "^3.5.2",
     "@heroicons/react": "^2.1.5",
